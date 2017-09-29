@@ -1,5 +1,5 @@
 # iCat
-Spec for the __iCat__ java web application.
+Some notes for the __iCat__ java web application.
 
 ## Database
 
