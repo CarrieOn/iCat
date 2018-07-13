@@ -12,12 +12,8 @@
 * use __JSP, Html, CSS, JavaScript__ to write the front-end
 * select __MySQL__ as the database
 * and __Apache Tomcat__ as the website’s server
-* and finally deploy it on __Azure__
-
-## Welcome to visit, thank you :)
-  * website --- http://52.183.103.138/iCat/forehome
-  * some notes --- http://52.183.103.138/iCat/iCat.html
+* and deploy it on __Azure__
   
-## Last but sweetest
+## Something Sweet
 
-* I adopted a cute kitty while developing this website, he loves sleeping on my arm when I am tapping codes, so I name it 'iCat' to show my love for my sweetheart.
+* I adopted an adorable kitty while developing this website, the little sweetheart loves sleeping on my arms while I am tapping codes. Now you know why my project is named 'iCat'.
